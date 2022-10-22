@@ -1,5 +1,5 @@
 a=int(input())
-if a>=40:
+if a>=40: # A가 40보다 클 때 a를 출력한다
  a = a
 
 else: 
